@@ -285,5 +285,3 @@ section{padding:80px 20px;}
 
 <a href="https://wa.me/919315670352" class="whatsapp">💬</a>
 
-</body>
-</html>
